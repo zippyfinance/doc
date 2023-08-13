@@ -10,5 +10,5 @@ The internal data deletion test has now started!
 https://zippychain.ai/
 ```
 
-Our website link: [https://zippychain.ai/](https://zippychain.ai/)
+Our website link: https://zippychain.ai/
 

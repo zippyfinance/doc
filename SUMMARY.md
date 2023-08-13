@@ -1,7 +1,7 @@
 # Table of contents
 
-* [👋 Zippy Finance Documentation](README.md)
+* [👋 Zippy Chain Documentation](README.md)
 
 ## Overview
 
-* [💡 Test Net Info](overview/test-net-info.md)
+* [💡 Zippy Chain Testnet Info](overview/test-net-info.md)

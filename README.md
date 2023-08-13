@@ -1,9 +1,5 @@
 # 👋 Zippy Finance Documentation
-
-{% hint style="info" %}
 The internal data deletion test has now started!
-{% endhint %}
-
 ## Our website:
 
 ```

@@ -5,3 +5,7 @@
 ## Overview
 
 * [💡 Zippy Chain Testnet Info](overview/test-net-info.md)
+
+***
+
+* [Create observation node](create-observation-node.md)
